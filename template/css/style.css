@@ -545,3 +545,7 @@ table td{
 table ul,table li{
   padding: 6px;
 }
+
+table li blockquote{
+  margin-top: 10px;
+}
