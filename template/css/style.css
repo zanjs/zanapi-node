@@ -541,3 +541,7 @@ table p{
 table td{
   padding: 10px;
 }
+
+table ul,table li{
+  padding: 6px;
+}
