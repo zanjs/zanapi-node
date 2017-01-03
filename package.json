@@ -1,6 +1,6 @@
 {
   "name": "zanapi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "RESTful web API Documentation Generator",
   "author": "Anla Sheng <anlasheng@gmail.com>",
   "license": "MIT",
