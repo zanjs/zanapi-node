@@ -1,5 +1,7 @@
 # zanApi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/zanapi-node.svg)](https://greenkeeper.io/)
+
 Generates a RESTful web API Documentation.
 
 
